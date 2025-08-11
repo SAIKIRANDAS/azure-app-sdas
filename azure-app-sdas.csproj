@@ -7,4 +7,9 @@
     <RootNamespace>azure_app_sdas</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="microsoft.applicationinsights.aspnetcore" Version="2.23.0" />
+  </ItemGroup>
+  
+
 </Project>
